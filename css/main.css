@@ -1,0 +1,17 @@
+
+@import './../css/fonts/chilax/css/chillax.css';
+@import './../css/fonts/shatohi/css/satoshi.css';
+
+@import "./base/reset.css";
+@import "./base/base.css";
+
+@import "./blocks/btn.css";
+
+@import "./blocks/nav.css";
+@import "./blocks/hero.css";
+@import "./blocks/partners.css";
+@import "./blocks/services.css";
+@import "./blocks/service.css";
+@import "./blocks/round-icon.css";
+@import "./blocks/works.css";
+@import "./blocks/work.css";

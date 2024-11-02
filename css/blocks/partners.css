@@ -1,0 +1,13 @@
+.partners {
+    padding-top: 128px;
+    padding-bottom: 80px;
+}
+
+.partners__row {
+    margin: 0 auto;
+    max-width: 1200px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

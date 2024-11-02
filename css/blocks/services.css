@@ -1,0 +1,10 @@
+.services__row {
+    padding-bottom: 164px;
+    display: flex;
+    gap: 32px;
+}
+
+.services__row > *{
+    flex: 1;
+    
+}

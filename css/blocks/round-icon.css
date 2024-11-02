@@ -1,0 +1,13 @@
+.round-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--border-default);
+    border-radius: 500px;
+    /* padding: 8px 12px; */
+    width: 32px;
+    height: 32px;
+
+    backdrop-filter: blur(30px);
+    background: var(--background-muted);
+}

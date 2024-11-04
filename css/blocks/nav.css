@@ -24,11 +24,13 @@
 }
 
 .nav_logo {
-
-}
-
-.nav_logo-img {
-
+    font-family: "Gambetta", sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;
+    letter-spacing: .17em;
+    text-transform: uppercase;
+    color: var(--text-default);
 }
 
 .nav_list {
